@@ -2,6 +2,7 @@ from setuptools import setup, find_packages
 import d2l
 
 requirements = [
+    # conda install jupyter
     'jupyter',
     'numpy<=1.23.5',
     'matplotlib',
