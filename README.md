@@ -19,8 +19,8 @@ Summer 2025 Outreach is a collection of materials, plans, and documentation for 
 
 | No. | Date          | Day       | Topic(s)                                                                                      |
 |-----|---------------|-----------|-----------------------------------------------------------------------------------------------|
-| 1   | June 10, 2025 | Tuesday   | introduction; preliminaries; install Python; use Git, GitHub                                   |
-| 2   | June 12, 2025 | Thursday  | introduction to the Dive-into-Deep-Learning book and repository                                |
+| 1   | June 10, 2025 | Tuesday   | introduction; preliminaries; install Python                                                   |
+| 2   | June 12, 2025 | Thursday  | use Git, GitHub; introduction to the Dive-into-Deep-Learning book and repository              |
 | 3   | June 17, 2025 | Tuesday   | linear-regression; linear-classification; multilayer-perceptrons                              |
 | 4   | June 19, 2025 | Thursday  | builders-guide; convolutional-neural-networks; convolutional-modern                            |
 | 5   | June 24, 2025 | Tuesday   | recurrent-neural-networks; recurrent-modern; attention-mechanisms-and-transformers             |
