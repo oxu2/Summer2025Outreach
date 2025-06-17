@@ -11,9 +11,26 @@ Summer 2025 Outreach is a collection of materials, plans, and documentation for 
 - The code, created by our labmate Ruiyu Mao, is a simplified version of the Dive into Deep Learning project ([d2l.ai](https://d2l.ai/)). It provides students with a low‐overhead way to become familiar with Python and standard deep learning models.
 
 ### Final Project
-- We may explore the paper “SafeFix: Targeted Model Repair via Controlled Image Generation,” which is an active research direction in our lab that I am primarily responsible for.  
-- We may shrink the dataset and/or use Google Colab so it trains faster. The plan is to help students understand the core components of the machine learning project pipeline and explore more data-efficient methods.  
-- The project integrates computer vision models, text-to-image generative models, and large vision-language models, which are highly popular in current AI research.
+
+The final project will serve as a practical component where students apply what they have learned in the outreach program. Below is an overview:
+
+- We may explore the paper **“SafeFix: Targeted Model Repair via Controlled Image Generation”**, which represents an active research direction in our lab and is a project I am primarily responsible for.
+- To reduce overhead, we may shrink the dataset and/or use Google Colab so that models can be trained efficiently.
+- The goal is to help students understand the **machine learning project pipeline**, and to explore **data-efficient methods** in practical scenarios.
+- The project will involve components from:
+  - **Computer vision models**
+  - **Text-to-image generative models**
+  - **Large vision-language models (VLMs)**
+  
+These topics align closely with current trends in AI research.
+
+#### Related Paper for Reference
+
+> **HiBug: On Human-Interpretable Model Debug**  
+> NeurIPS 2023  
+> [PDF link](https://proceedings.neurips.cc/paper_files/paper/2023/file/0f53ecc0d36a5d5d3d3e94d42c4b23ca-Paper-Conference.pdf)
+
+ 
 
 ## Tentative Schedule
 
@@ -22,12 +39,12 @@ Summer 2025 Outreach is a collection of materials, plans, and documentation for 
 | 1   | June 10, 2025 | Tuesday   | introduction; preliminaries; install Python                                                   |
 | 2   | June 12, 2025 | Thursday  | use Git, GitHub; introduction to the Dive-into-Deep-Learning book and repository              |
 | 3   | June 17, 2025 | Tuesday   | linear-regression; linear-classification; multilayer-perceptrons                              |
-| 4   | June 19, 2025 | Thursday  | builders-guide; convolutional-neural-networks; convolutional-modern                            |
-| 5   | June 24, 2025 | Tuesday   | recurrent-neural-networks; recurrent-modern; attention-mechanisms-and-transformers             |
-| 6   | June 26, 2025 | Thursday  | optimization; computational-performance; computer-vision                                        |
-| 7   | July 1, 2025  | Tuesday   | natural-language-processing-pretraining; natural-language-processing-applications; reinforcement-learning |
-| 8   | July 3, 2025  | Thursday  | gaussian-processes; hyperparameter-optimization; generative-adversarial-networks; recommender-systems |
-| 9   | July 8, 2025  | Tuesday   | Hands-on Project (TBD)                                                                        |
+| -   | June 19, 2025 | Thursday  | **Juneteenth (no class)**                                                                     |
+| 4   | June 24, 2025 | Tuesday   | builders-guide; convolutional-neural-networks; convolutional-modern                           |
+| 5   | June 26, 2025 | Thursday  | recurrent-neural-networks; recurrent-modern; attention-mechanisms-and-transformers            |
+| 6   | July 1, 2025  | Tuesday   | optimization; computational-performance; computer-vision                                       |
+| 7   | July 3, 2025  | Thursday  | natural-language-processing-pretraining; natural-language-processing-applications; reinforcement-learning |
+| 8   | July 8, 2025  | Tuesday   | gaussian-processes; hyperparameter-optimization; generative-adversarial-networks; recommender-systems |
 | 10  | July 10, 2025 | Thursday  | Hands-on Project (TBD)                                                                        |
 | 11  | July 15, 2025 | Tuesday   | Hands-on Project (TBD)                                                                        |
 | 12  | July 17, 2025 | Thursday  | Hands-on Project (TBD)                                                                        |
@@ -35,3 +52,6 @@ Summer 2025 Outreach is a collection of materials, plans, and documentation for 
 | 14  | July 24, 2025 | Thursday  | Hands-on Project (TBD)                                                                        |
 | 15  | July 29, 2025 | Tuesday   | Hands-on Project (TBD)                                                                        |
 | 16  | July 31, 2025 | Thursday  | Project presentation                                                                          |
+
+
+
