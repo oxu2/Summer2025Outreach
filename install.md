@@ -17,6 +17,28 @@ if your machine already has conda installed.
 Follow the `Command Prompt` installation guide on that website.
 
 
+Next, initialize the shell so we can run `conda` directly.
+
+```bash
+conda init
+```
+
+
+Then close and reopen your current shell.
+You should be able to create
+a new environment as follows:
+
+```bash
+conda create --name d2l python=3.9 -y
+```
+
+
+Now we can activate the `d2l` environment:
+
+```bash
+conda activate d2l
+```
+
 
 ## Installing the Deep Learning Framework and the `d2l` Package
 
