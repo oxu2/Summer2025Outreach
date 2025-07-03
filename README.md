@@ -43,10 +43,10 @@ These topics align closely with current trends in AI research.
 | 4   | June 24, 2025 | Tuesday   | builders-guide; convolutional-neural-networks; convolutional-modern                           |
 | 5   | June 26, 2025 | Thursday  | recurrent-neural-networks; recurrent-modern          |
 | 6   | July 1, 2025  | Tuesday   | attention-mechanisms-and-transformers            |
-| 7   | July 3, 2025  | Tuesday   | optimization; computational-performance; computer-vision                                       |
-| 8   | July 8, 2025  | Thursday  | natural-language-processing-pretraining; natural-language-processing-applications; reinforcement-learning |
-| 9   | July 10, 2025  | Tuesday   | gaussian-processes; hyperparameter-optimization; generative-adversarial-networks; recommender-systems |
-| 10  | July 15, 2025 | Thursday  | Hands-on Project (TBD)                                                                        |
+| 7   | July 3, 2025  | Thursday   | optimization; computational-performance; computer-vision                                       |
+| 8   | July 8, 2025  | Tuesday  | natural-language-processing-pretraining; natural-language-processing-applications; reinforcement-learning |
+| 9   | July 10, 2025  | Thursday   | gaussian-processes; hyperparameter-optimization; generative-adversarial-networks; recommender-systems |
+| 10  | July 15, 2025 | Tuesday  | Hands-on Project (TBD)                                                                        |
 | 11  | July 17, 2025 | Thursday  | Hands-on Project (TBD)                                                                        |
 | 12  | July 22, 2025 | Tuesday   | Hands-on Project (TBD)                                                                        |
 | 13  | July 24, 2025 | Thursday  | Hands-on Project (TBD)                                                                        |
