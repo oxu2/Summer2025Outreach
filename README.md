@@ -34,24 +34,24 @@ These topics align closely with current trends in AI research.
 
 ## Tentative Schedule
 
-| No. | Date          | Day       | Topic(s)                                                                                      |
-|-----|---------------|-----------|-----------------------------------------------------------------------------------------------|
-| 1   | June 10, 2025 | Tuesday   | introduction; preliminaries; install Python                                                   |
-| 2   | June 12, 2025 | Thursday  | use Git, GitHub; introduction to the Dive-into-Deep-Learning book and repository              |
-| 3   | June 17, 2025 | Tuesday   | linear-regression; linear-classification; multilayer-perceptrons                              |
-| -   | June 19, 2025 | Thursday  | **Juneteenth (no class)**                                                                     |
-| 4   | June 24, 2025 | Tuesday   | builders-guide; convolutional-neural-networks; convolutional-modern                           |
-| 5   | June 26, 2025 | Thursday  | recurrent-neural-networks; recurrent-modern          |
-| 6   | July 1, 2025  | Tuesday   | attention-mechanisms-and-transformers            |
-| 7   | July 3, 2025  | Thursday   | optimization; computational-performance; computer-vision                                       |
-| 8   | July 8, 2025  | Tuesday  | natural-language-processing-pretraining; natural-language-processing-applications; reinforcement-learning |
-| 9   | July 10, 2025  | Thursday   | gaussian-processes; hyperparameter-optimization; generative-adversarial-networks; recommender-systems |
-| 10  | July 15, 2025 | Tuesday  | Hands-on Project (TBD)                                                                        |
-| 11  | July 17, 2025 | Thursday  | Hands-on Project (TBD)                                                                        |
-| 12  | July 22, 2025 | Tuesday   | Hands-on Project (TBD)                                                                        |
-| 13  | July 24, 2025 | Thursday  | Hands-on Project (TBD)                                                                        |
-| 14  | July 29, 2025 | Tuesday   | Hands-on Project (TBD)                                                                        |
-| 15  | July 31, 2025 | Thursday  | Project presentation                                                                          |
+| No. | Date           | Day       | Topic(s)                                                                                                                                    |
+|-----|----------------|-----------|-----------------------------------------------------------------------------------------------------------------------------------------------|
+| 1   | June 10, 2025  | Tuesday   | introduction; preliminaries; install Python                                                                                                  |
+| 2   | June 12, 2025  | Thursday  | use Git, GitHub; introduction to the Dive-into-Deep-Learning book and repository                                                             |
+| 3   | June 17, 2025  | Tuesday   | linear-regression; linear-classification; multilayer-perceptrons                                                                             |
+| –   | June 19, 2025  | Thursday  | **Juneteenth (no class)**                                                                                                                    |
+| 4   | June 24, 2025  | Tuesday   | builders-guide; convolutional-neural-networks; convolutional-modern                                                                          |
+| 5   | June 26, 2025  | Thursday  | recurrent-neural-networks; recurrent-modern                                                                                                   |
+| 6   | July 1, 2025   | Tuesday   | attention-mechanisms-and-transformers                                                                                                        |
+| 7   | July 3, 2025   | Thursday  | optimization; computational-performance; computer-vision                                                                                      |
+| 8   | July 8, 2025   | Tuesday   | natural-language-processing-pretraining; natural-language-processing-applications; reinforcement-learning                                     |
+| 9   | July 10, 2025  | Thursday  | [HiBug explanation](https://proceedings.neurips.cc/paper_files/paper/2023/file/0f53ecc0d36a5d5d3d3e94d42c4b23ca-Paper-Conference.pdf)         |
+| 10  | July 15, 2025  | Tuesday   | reading gaussian-processes; [HiBug code](https://github.com/cure-lab/HiBug); project: working on Resnet Classification on ImageNet subset       |
+| 11  | July 17, 2025  | Thursday  | reading hyperparameter-optimization; project: working on Resnet Classification on ImageNet subset                                             |
+| 12  | July 22, 2025  | Tuesday   | reading generative-adversarial-networks                                                                                                      |
+| 13  | July 24, 2025  | Thursday  | reading recommender-systems                                                                                                                  |
+| 14  | July 29, 2025  | Tuesday   | Hands-on Project                                                                                                                             |
+| 15  | July 31, 2025  | Thursday  | Project presentation                                                                                                                         |
 
 
 
