@@ -45,9 +45,9 @@ These topics align closely with current trends in AI research.
 | 6   | July 1, 2025   | Tuesday   | attention-mechanisms-and-transformers                                                                                                        |
 | 7   | July 3, 2025   | Thursday  | optimization; computational-performance; computer-vision                                                                                      |
 | 8   | July 8, 2025   | Tuesday   | natural-language-processing-pretraining; natural-language-processing-applications; reinforcement-learning                                     |
-| 9   | July 10, 2025  | Thursday  | [HiBug explanation](https://proceedings.neurips.cc/paper_files/paper/2023/file/0f53ecc0d36a5d5d3d3e94d42c4b23ca-Paper-Conference.pdf)         |
-| 10  | July 15, 2025  | Tuesday   | reading gaussian-processes; [HiBug code](https://github.com/cure-lab/HiBug); project: working on Resnet Classification on ImageNet subset       |
-| 11  | July 17, 2025  | Thursday  | reading hyperparameter-optimization; project: working on Resnet Classification on ImageNet subset                                             |
+| 9   | July 10, 2025  | Thursday  | [HiBug](https://proceedings.neurips.cc/paper_files/paper/2023/file/0f53ecc0d36a5d5d3d3e94d42c4b23ca-Paper-Conference.pdf)  explanation       |
+| 10  | July 15, 2025  | Tuesday   | reading gaussian-processes; [HiBug code](https://github.com/cure-lab/HiBug); project part 1: working on Resnet Classification on ImageNet subset       |
+| 11  | July 17, 2025  | Thursday  | reading hyperparameter-optimization                                        |
 | 12  | July 22, 2025  | Tuesday   | reading generative-adversarial-networks                                                                                                      |
 | 13  | July 24, 2025  | Thursday  | reading recommender-systems                                                                                                                  |
 | 14  | July 29, 2025  | Tuesday   | Hands-on Project                                                                                                                             |
