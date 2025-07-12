@@ -21,7 +21,9 @@ The final project will serve as a practical component where students apply what 
   - **Computer vision models**
   - **Text-to-image generative models**
   - **Large vision-language models (VLMs)**
-  
+
+####
+
 These topics align closely with current trends in AI research.
 
 #### Related Paper for Reference
@@ -30,7 +32,75 @@ These topics align closely with current trends in AI research.
 > NeurIPS 2023  
 > [PDF link](https://proceedings.neurips.cc/paper_files/paper/2023/file/0f53ecc0d36a5d5d3d3e94d42c4b23ca-Paper-Conference.pdf)
 
- 
+## Setup
+
+Follow these steps to create a reproducible Conda environment with Python 3.9 and all required packages.
+
+---
+
+### 1. Install Conda
+
+1. Install Anaconda as we did last before on your own computer. Or download the Miniconda installer for your platform from  
+   https://repo.anaconda.com/miniconda/  
+2. Run the installer and follow the prompts.  
+3. Open a new terminal and verify Conda is available:  
+   ```bash
+   conda --version
+   ```
+
+---
+
+### 2. Create and Activate the Environment
+
+```bash
+conda create -n resnet-env python=3.9
+conda activate resnet-env
+```
+
+---
+
+### 3. Install PyTorch and TorchVision
+
+Following https://pytorch.org/get-started/locally/,
+#### CPU version
+
+```bash
+pip3 install torch torchvision torchaudio
+```
+
+
+---
+
+### 4. Install Other Dependencies
+
+```bash
+conda install numpy matplotlib
+```
+
+> **Note:**  
+> - `numpy` is required for data indexing and random seeds.  
+> - `matplotlib` is optional if you plan to plot training curves.
+
+---
+
+### 5. Verify the Installation
+
+Run this command to confirm versions:
+
+```bash
+python -c "import torch, torchvision, numpy; \
+print('torch', torch.__version__, \
+'torchvision', torchvision.__version__, \
+'numpy', numpy.__version__)"
+```
+
+---
+
+Once your environment is ready, you can run your training script:
+
+```bash
+python train.py
+```
 
 ## Tentative Schedule
 
